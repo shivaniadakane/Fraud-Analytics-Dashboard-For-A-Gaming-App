@@ -1,6 +1,16 @@
-•	A dashboard is a collection of several charts and graphs from different worksheets. It provides a single view for analysing the entire business dataset.
-•	The dashboard is about Analytics of Online Gaming Applications and Prevention of Fraud. An online gaming fraud occurs when an unscrupulous individual manipulates or exploits an internet betting site for monetary gain. This type of fraud can take many forms, such as money laundering, affiliate fraud, bonus abuses, and multi-accounting.
+# Fraud Analytics Dashboard For A Gaming App
+This repository houses a Tableau-based dashboard project focused on the analytics of online gaming applications and the prevention of fraud. Online gaming fraud encompasses various illicit activities, such as money laundering, affiliate fraud, bonus abuses, and multi-accounting, where individuals manipulate or exploit internet betting sites for monetary gain.
 
-•	In this project, we are trying to minimize the fraud from the process of data analysis. The data is provided by a client and it is verified with no errors. Later the data is imported from MySQL Server to Tableau for visualizations. For visualization we created a dashboard.
+Dashboard Highlights
+Data Source: The data, provided by the client and verified with no errors, has been imported from MySQL Server to Tableau for visualizations.
 
-•	From the data, out of 600 Customers, 229 cases are of fraud which constitutes of 38%. Maximum average deposit per day is 1 by 287 customers. Amount approved deposit by customers is 12 M and Total pending deposit consists of 1M (which is 8.23% of total approved deposit) and Total rejected withdrawal consists of 2M (which is 14.17% of total approved deposit).
+Fraud Analysis: Out of 600 customers, 229 cases are identified as fraud, constituting 38% of the dataset.
+
+Deposit Insights:
+The maximum average deposit per day is made by 287 customers.
+The total amount of approved deposits by customers is 12M.
+Total pending deposits account for 1M (8.23% of the total approved deposit).
+Total rejected withdrawals constitute 2M (14.17% of the total approved deposit).
+
+Dashboard Visualization:
+The dashboard provides a single view for analyzing the entire business dataset, featuring several charts and graphs that offer insights into fraud cases, deposit patterns, and withdrawal outcomes.
